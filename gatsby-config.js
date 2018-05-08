@@ -1,6 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Chad Jewsbury',
   },
-  plugins: ['gatsby-plugin-react-helmet'],
+  plugins: [
+    'gatsby-plugin-react-helmet',
+    'gatsby-plugin-styled-components',
+    {
+      resolve: `gatsby-plugin-typography`,
+      options: {
+        pathToConfigModule: `src/utils/typography.js`,
+      },
+    },
+  ],
 }
