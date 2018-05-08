@@ -1,5 +1,15 @@
-# gatsby-starter-default
-The default Gatsby starter.
+# chadjewsbury.com
+A new version of my personal site (in development). I'm playing with Gatsby and some of the plugins/transformers available for it. I hope to have a simple new version of this site live soon.
+
+Pages I plan to add...
+- [ ] About Me
+- [ ] Articles (blog)
+- [ ] Books (pull in from goodreads)
+- [ ] Projects (highlight past/pressent projects)
+- [ ] Photos (maybe...)
+- [ ] Now
+
+This site was started using the default gatsby-starter
 
 For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
 
